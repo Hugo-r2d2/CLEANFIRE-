@@ -25,3 +25,8 @@ six==1.16.0
 tzdata==2024.2
 urllib3==2.2.3
 virtualenv==20.26.1
+asgiref==3.8.1
+Django==5.1.2
+djangorestframework==3.15.2
+sqlparse==0.5.1
+tzdata==2024.2
