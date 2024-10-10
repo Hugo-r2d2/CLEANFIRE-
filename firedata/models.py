@@ -1,7 +1,7 @@
 from django.db import models
 
 
-class MunicipioQUeimada(models.Model):
+class MunicipioQueimada(models.Model):
     municipio = models.CharField(max_length=100, primary_key=True)
     data_hora = models.DataTimeField()
     estado = models.CharField(max_length=100)
